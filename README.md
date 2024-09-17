@@ -37,8 +37,8 @@ This is a full-stack web application that allows users to search for books using
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/book-search-app.git
-   cd book-search-app
+   git clone https://github.com/your-username/Book-Engine.git
+   cd Book-Engine-app
    ```
 
 2. Install dependencies
